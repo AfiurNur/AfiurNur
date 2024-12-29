@@ -11,7 +11,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AfiurNur&theme=dark&hide_border=false)<br/>
 
 
-
-![](https://github-profile-trophy.vercel.app/?username=AfiurNur&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
