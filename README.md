@@ -87,10 +87,5 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Afiur Nur">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Afiur%20Nur&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
