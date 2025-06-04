@@ -57,8 +57,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <h6 align="left">👋 About Me<br>Hi there! I'm a passionate A-Level student with a keen interest in programming and technology. As an aspiring full-stack developer, I believe in learning through practice and hands-on experience.<br><br>🌟 What I'm Up To:<br>💻 Learning Programming: Exploring and mastering programming languages by building projects and solving real-world problems.<br>🌐 Full-Stack Development: Working on web development using modern frameworks and tools to sharpen my skills.<br>🎓 Continuous Learning: Always open to new challenges and opportunities to grow as a developer.<br>⚡ Skills & Interests:<br>Frontend: HTML, CSS, JavaScript (learning React).<br>Backend: Node.js, Express.js (working towards mastering databases).<br>Curious Explorer: Always excited to explore new technologies and frameworks.<br>🌱 Current Goal:<br>Becoming proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js) to build full-stack applications.</h6>
